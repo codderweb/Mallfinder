@@ -1,0 +1,41 @@
+.mall-banner .breadcrumb__text h4 {
+    display: inline;
+    color: #fff;
+    padding: 0.5em;
+    background: #000;
+}
+.mall-contact-content {
+    h4 {
+        font-size: 1.2rem;
+        font-weight: 700;
+        margin-bottom: 1em;
+    }
+    p {
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: #000;
+    }
+}
+.mall-contact-icon-section .mall-icon {
+    background-color: #dfe6e9;
+    width: 180px;
+    padding: 2em;
+    box-shadow: 0 7px 7px 0px rgb(51 51 51 / 16%);
+    margin-bottom: 0.5em;
+    i {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #fe610c;
+        margin-bottom: 1em;
+    }
+    h4 {
+        font-size: 1.2rem;
+        font-weight: 700;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .discover-left {
+        margin: 0 !important;
+    }
+}
